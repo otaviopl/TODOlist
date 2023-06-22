@@ -1,0 +1,9 @@
+h1{
+    display: flex;
+    color: brown;
+    font-size: 60px;
+    align-items: center;
+}
+body{
+    background-color: aliceblue;
+}
